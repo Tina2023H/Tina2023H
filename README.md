@@ -22,5 +22,5 @@
            **Temporal dynamics of TiOx memristor for reservoir computing applications** (2025)-Journal
            
 ## 🔗 Links
-        -📫X.Fan@soton.ac.uk
-        -[Linkin] https://www.linkedin.com/in/xiyue-fan-43450b424/
+        -📫 [X.Fan@soton.ac.uk]
+        -[Linkin] [https://www.linkedin.com/in/xiyue-fan-43450b424/](https://www.linkedin.com/in/xiyue-fan-43450b424/)
